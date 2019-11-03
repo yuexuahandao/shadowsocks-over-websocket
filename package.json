@@ -16,6 +16,10 @@
   "keywords": [
     "proxy"
   ],
+  "engines" : { 
+    "node" : "8.9.3",
+    "npm" : "5.5.1"
+  },
   "author": "vincentchan <hci.vincentchan@gmail.com> (https://github.com/VincentChanX)",
   "license": "GPL-3.0",
   "bugs": {
