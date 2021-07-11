@@ -3,6 +3,9 @@
   "version": "0.1.8",
   "description": "A fast tunnel proxy that helps you bypass firewalls",
   "main": "tcprelay.js",
+  "engines": {
+    "node": "8.9.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "node server.js",
